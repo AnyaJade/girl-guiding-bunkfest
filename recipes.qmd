@@ -2,7 +2,7 @@
 
 Thank you for volunteering to bake for us. We have decided to use set recipes this year to help us better manage stock on the day. Below you will find links to the recipes we would like to use and any extra notes we've added to help. Please do not add or substitute other ingredients to the recipes so that on the day we can be sure exactly what's in each bake and to answer any questions from people with allergies or dietary requirements.
 
-Please **Do not cut cakes or traybakes.** This will help us keep the cakes fresher and allow us to control portion sizes.
+Please **do not cut cakes or traybakes.** This will help us keep the cakes fresher and allow us to control portion sizes.
 
 ## Dropping off bakes
 
@@ -13,39 +13,122 @@ Times and locations for dropoff:
 - Thursday 28th Aug: anytime to Sam in Wallingford. Please let us know in advance and we will give you contact details.
 - Friday 29th Aug: morning as above. From 2 - 6pm deliver direct to the stall on the Bullcroft.
 - Saturday 30th Aug: 10am - 12pm deliver direct to the stall on the Bullcroft.
-- Sunday 31st Aug: 10am 1 2pm deliver direct to the stall on the Bullcroft.
+- Sunday 31st Aug: 10am - 12pm deliver direct to the stall on the Bullcroft.
 
 ## Recipes
 
-### Victoria sponge
-
-- [https://www.maryberry.co.uk/recipes/recipe/victoria-sponge-sandwich](https://www.maryberry.co.uk/recipes/recipe/victoria-sponge-sandwich)
-- Without the whipped cream
-- Choice of jam is up to you - but please label the cakes so we know what it is
+:::panel-tabset
 
 ### Double chocolate muffins
 
-- [https://sallysbakingaddiction.com/double-chocolate-muffins/#tasty-recipes-96196
-](https://sallysbakingaddiction.com/double-chocolate-muffins/#tasty-recipes-96196
-)
+#### Ingredients
 
-### Lemon traybake
+[Dry]{.underline}: \
+2 cups (250g) all-purpose flour (spooned & leveled) \
+1 cup (200g) granulated sugar \
+1/2 cup (41g) unsweetened natural cocoa powder \
+1 teaspoon baking soda \
+1/2 teaspoon salt \
+1 and 3/4 cups (315g) semi-sweet chocolate chips \
 
-- TBC
+[Wet]{.underline}: \
+2 large eggs, at room temperature \
+3/4 cup (185g) full fat sour cream or plain yogurt, at room temperature \
+1/2 cup (120ml) vegetable oil \
+1/2 cup (120ml) whole milk, at room temperature \
+1 and 1/2 teaspoons pure vanilla extract \
 
-### Vegan flapjack
+#### Method
 
-- [https://www.goodhousekeeping.com/uk/food/recipes/a535174/traditional-flapjacks/](https://www.goodhousekeeping.com/uk/food/recipes/a535174/traditional-flapjacks/)
-- **Using a vegan butter** for example:
-  - [Vitalite](https://www.tesco.com/groceries/en-GB/products/253250771?_gl=1*1fkixwf*_up*MQ..*_ga*NzQ4MjkyNDA1LjE3NDk4OTMxNjY.*_ga_33B19D36CY*czE3NDk4OTMxNjUkbzEkZzAkdDE3NDk4OTMxNjUkajYwJGwwJGgxNzU1MjYxODk3)
-  - [Flora Plant Butter](https://www.tesco.com/groceries/en-GB/products/316641967?_gl=1*1fkixwf*_up*MQ..*_ga*NzQ4MjkyNDA1LjE3NDk4OTMxNjY.*_ga_33B19D36CY*czE3NDk4OTMxNjUkbzEkZzAkdDE3NDk4OTMxNjUkajYwJGwwJGgxNzU1MjYxODk3)
-  - [Stork](https://www.tesco.com/groceries/en-GB/products/254263443?_gl=1*1fkixwf*_up*MQ..*_ga*NzQ4MjkyNDA1LjE3NDk4OTMxNjY.*_ga_33B19D36CY*czE3NDk4OTMxNjUkbzEkZzAkdDE3NDk4OTMxNjUkajYwJGwwJGgxNzU1MjYxODk3)
-- Please label with choice of vegan butter
+1. Preheat oven to 220°C. Line muffin tins with 14 cupcake liners.
+
+1. Whisk the flour, sugar, cocoa powder, baking soda, salt, and chocolate chips together in a large bowl. Set aside.
+
+1. Whisk the eggs, sour cream, oil, milk, and vanilla extract together until combined. Pour wet ingredients into dry ingredients and fold together with a silicone spatula or wooden spoon until completely combined. (Batter is quite thick, so recommend a spatula or spoon over a whisk.) Avoid overmixing. The batter will be thick and sticky.
+
+1. Spoon the batter into liners, filling them all the way to the top. Bake for 5 minutes at 220°C. then, keeping the muffins in the oven, reduce the oven temperature to 175°C. Bake for an additional 15-16 minutes or until a toothpick inserted in the center comes out clean.
+
+1. Cool muffins for 10 minutes in the pan, then transfer to a wire rack until ready to eat.
+
+Adapted from [https://sallysbakingaddiction.com/double-chocolate-muffins/#tasty-recipes-96196
+](https://sallysbakingaddiction.com/double-chocolate-muffins/#tasty-recipes-96196)
 
 ### Gluten free brownie
 
-- Please use a shop bought Gluten Free Brownie mix. For example:
+Please use a shop bought Gluten Free Brownie mix. For example:
+
   - [Tesco Free From Chocolate Brownie Mix](https://www.tesco.com/groceries/en-GB/products/293194190?_gl=1*dk7v9s*_up*MQ..*_ga*MzU4NDIwNDE2LjE3NDk4OTM0ODU.*_ga_33B19D36CY*czE3NDk4OTM0ODUkbzEkZzAkdDE3NDk4OTM0ODUkajYwJGwwJGg4ODM2NzI2ODg.)
   - [Betty Crocker gluten free chocolate fudge brownie mix](https://www.tesco.com/groceries/en-GB/products/293283636?_gl=1*1tjv2x3*_up*MQ..*_ga*MTEyODcwMTM5My4xNzQ5ODkzNDEw*_ga_33B19D36CY*czE3NDk4OTM0MDkkbzEkZzAkdDE3NDk4OTM0MDkkajYwJGwwJGg4NjcxMjM1ODU.)
-- Please cut out the ingredients list from the packet and attach to the box of brownies.
 
+Do not cut.
+
+Please attach the empty packet / box to the container of brownies so we know the ingredients.
+
+### Lemon traybake
+
+TBC
+
+### Vegan flapjack
+
+**Using a vegan butter** for example:
+
+  - [Vitalite](https://www.tesco.com/groceries/en-GB/products/253250771?_gl=1*1fkixwf*_up*MQ..*_ga*NzQ4MjkyNDA1LjE3NDk4OTMxNjY.*_ga_33B19D36CY*czE3NDk4OTMxNjUkbzEkZzAkdDE3NDk4OTMxNjUkajYwJGwwJGgxNzU1MjYxODk3)
+  - [Flora Plant Butter](https://www.tesco.com/groceries/en-GB/products/316641967?_gl=1*1fkixwf*_up*MQ..*_ga*NzQ4MjkyNDA1LjE3NDk4OTMxNjY.*_ga_33B19D36CY*czE3NDk4OTMxNjUkbzEkZzAkdDE3NDk4OTMxNjUkajYwJGwwJGgxNzU1MjYxODk3)
+  - [Stork](https://www.tesco.com/groceries/en-GB/products/254263443?_gl=1*1fkixwf*_up*MQ..*_ga*NzQ4MjkyNDA1LjE3NDk4OTMxNjY.*_ga_33B19D36CY*czE3NDk4OTMxNjUkbzEkZzAkdDE3NDk4OTMxNjUkajYwJGwwJGgxNzU1MjYxODk3)
+
+#### Ingredients
+
+    200g (7oz) vegan butter (see note above)
+    150g (5oz) demerara sugar
+    4 Tbsp. golden syrup
+    1 tsp. ground cinnamon
+    Finely grated zest of ½-1 orange, to taste
+    400g (14oz) jumbo oats
+    100g (3½oz) raisins or sultanas
+
+#### Method
+
+1. Preheat oven to 190°C (170°C fan) mark 5. Grease and line a 20.5cm (8in) square baking tin with parchment paper.
+
+1. Melt the butter in a large pan and add the sugar, syrup, cinnamon and orange zest. Stir and heat gently until the sugar dissolves. 
+
+1. Remove pan from heat and stir in the oats and raisins. Press into tin and bake for 15-20min until lightly golden.
+
+1. Leave to cool. Do not cut.
+
+1. Please ensure flapjacks are labelled with choice of vegan butter.
+
+Adapted from [https://www.goodhousekeeping.com/uk/food/recipes/a535174/traditional-flapjacks/](https://www.goodhousekeeping.com/uk/food/recipes/a535174/traditional-flapjacks/)
+
+### Victoria sponge
+
+#### Ingredients
+
+[Sponge]{.underline}: \
+  225g (8oz) baking spread, straight from the fridge, plus extra for greasing \
+  225g (8oz) caster sugar \
+  4 eggs \
+  225g (8oz) self-raising flour \
+  1 level tsp baking powder \
+    
+[Filling & Topping]{.underline}: \
+    ½ × 370g jar strawberry jam \ (or other flavour, but please label cakes with jam used) \
+    A little caster sugar, to sprinkle \
+    
+#### Method
+
+1. Preheat the oven to 180°C/160°C fan/Gas 4. Lightly grease two 20cm (8in) deep loose-bottomed sandwich tins and line the bases with non-stick baking paper.
+
+1. Measure the sponge ingredients into a large bowl or freestanding mixer and beat for about 2 minutes with an electric whisk until beautifully smooth and lighter in colour. The time will vary according to the efficiency of the mixer.
+
+1. Divide the mixture between the tins and level the tops. Bake in the oven for about 25 minutes, or until well risen and golden and the cakes are shrinking away from the sides of the tins. The tops of the cakes should spring back when pressed lightly with a finger.
+
+1. Leave the cakes to cool in the tins for a few moments, then run a palette knife around the edge of the tins to free the sides. Turn the cakes out, then peel off the paper and leave to cool completely on a wire rack.
+
+1. Choose the cake with the best top and sit aside. Put the other cake top downwards on a serving plate. Spread this cake carefully with the jam. Sit the other cake on top.
+
+1. Sprinkle with sugar. Do not cut.
+
+Adapted from [https://www.maryberry.co.uk/recipes/recipe/victoria-sponge-sandwich](https://www.maryberry.co.uk/recipes/recipe/victoria-sponge-sandwich)
+
+:::
