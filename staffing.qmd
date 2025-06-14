@@ -16,7 +16,7 @@ Each unit has been assigned a two hour slot to run the tearoom.
 | Time slot | Unit |
 |---|------|
 | 10am - 12pm | 1st Wallingford Rainbows |
-| 12pm - 2 pm | 2nd Wallingford Guides |
+| 12pm - 2pm | 2nd Wallingford Guides |
 | 2pm - 4pm | 1st Wallingford Guides |
 | 4pm - 6pm | Long Wittenham Rainbows and Brownies |
 
@@ -25,7 +25,7 @@ Each unit has been assigned a two hour slot to run the tearoom.
 | Time slot | Unit 
 |---|------|
 | 10am - 12pm | Cholsey Brownies and Rainbows |
-| 12pm - 2 pm | Wallingford Rangers |
+| 12pm - 2pm | Wallingford Rangers |
 | 2pm - 4pm | 2nd Wallingford Rainbows and 2nd Wallingford Brownies |
 | 4pm - 6pm | 4th Wallingford Brownies and Cholsey Guides |
 
