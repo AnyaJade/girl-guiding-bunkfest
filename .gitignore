@@ -1,0 +1,18 @@
+# standard
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/.quarto/
+*.html
+_book
+/_site/
+# pictures
+*.jpg
+*.png
+# data
+*.xlsx
+*.csv
+*.json
+notes.R
+_extensions/quarto-ext/

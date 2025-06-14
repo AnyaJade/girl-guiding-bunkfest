@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Girl Guiding Bunkfest Tearoom 2025"
+  author: "Anya Ferguson"
+  date: today
+  chapters:
+    - index.qmd
+  repo-url: https://github.com/AnyaJade/girl-guiding-bunkfest
+  repo-branch: main
+
+execute: 
+  eval: true
+  echo: false
+  warning: false
+
+format:
+  html:
+    theme: 
+      dark: darkly
+      light: cosmo
+    number-sections: false
+
+
+
