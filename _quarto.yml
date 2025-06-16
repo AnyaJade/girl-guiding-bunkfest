@@ -21,12 +21,5 @@ execute:
   echo: false
   warning: false
 
-format:
-  html:
-    theme: 
-      dark: darkly
-      light: cosmo
-    number-sections: false
-
 
 

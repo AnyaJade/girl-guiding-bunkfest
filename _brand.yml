@@ -1,0 +1,20 @@
+color:
+  palette:
+    white: "#FFFFFF"
+    blue: "#161b4e"
+    bold-blue: "#007bc4"
+  background: white
+  foreground: blue
+  primary: blue
+
+logo: 
+  medium: pictures/logo-symbol-white-on-blue.png
+
+typography:
+  fonts:
+    - family: Poppins
+      source: google
+  base: Poppins
+  headings: Poppins
+  link: 
+    color: bold-blue
