@@ -1,5 +1,11 @@
-We are running a Mad Hatters themed tearoom at Bunkfest 2025. This site contains
+![](pictures/banner_bunkfest.png){fig-align="center" fig-alt="Girlguiding Wallingford District and Bunkfest 2025 logos"}
+
+We are running a Mad Hatters themed tearoom at [Bunkfest 2025](https://bunkfest.co.uk/) on Friday 29th to Sunday 31st August. This site contains
 information on ways to support us by [volunteering as staff](staffing.qmd) or by
 [baking cakes](recipes.qmd). There is also a section for 
-[Frequently Asked Questions](faq.qmd), but please do reach out to us if there is 
-anything else [INSERT CONTACT?].
+[Frequently Asked Questions](faq.qmd), but please [contact us](contact.qmd) if there is 
+anything else.
+
+We're looking forward to seeing you there!
+
+![](pictures/mad_hatter_tearoom.png){fig-align="center" fig-alt="table with tearoom crockery, girlguiding badges and Alice in Wonderland references."}
