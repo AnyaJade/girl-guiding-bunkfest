@@ -2,7 +2,7 @@ project:
   type: website
   
 website:
-  title: "Girl Guiding Bunkfest Tearoom 2025"
+  title: "Girlguiding Bunkfest Tearoom 2025"
   navbar:
     left:
       - href: index.qmd
@@ -13,8 +13,17 @@ website:
         text: Baking
       - href: faq.qmd
         text: FAQs 
-  repo-url: https://github.com/AnyaJade/girl-guiding-bunkfest
-  repo-branch: main
+    foreground: "#FFFFFF"
+  page-footer:
+    background: "#161b4e"
+    foreground: "#FFFFFF"
+    center: 
+      - text: "Contact us"
+        href: contact.qmd
+      - icon: github
+        href: https://github.com/AnyaJade/girl-guiding-bunkfest
+      - icon: facebook
+        href: https://www.facebook.com/GirlguidingWallingford/
 
 execute: 
   eval: true
