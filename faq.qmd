@@ -8,7 +8,7 @@ There are many ways you can help us during Bunkfest or in the run up to it - let
   - Setting up our tearoom on Thursday 28th Aug.
   - Volunteering in the tearoom on Friday 29th to Sunday 31st Aug.
   - Taking our tearoom down on Sunday 28th Aug.
-- [Bake us cakes](recipes/qmd).
+- [Bake us cakes](recipes.qmd).
 - Making decorations or displays over the summer.
 - Visiting our tearoom during Bunkfest. We'll be in the Bullcroft.
 - Or any other way you can think of. 
