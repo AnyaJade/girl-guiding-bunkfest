@@ -1,5 +1,7 @@
+![](pictures/banner_bunkfest.png)
+
 We are running a Mad Hatters themed tearoom at [Bunkfest 2025](https://bunkfest.co.uk/). This site contains
 information on ways to support us by [volunteering as staff](staffing.qmd) or by
 [baking cakes](recipes.qmd). There is also a section for 
-[Frequently Asked Questions](faq.qmd), but please do reach out to us if there is 
-anything else [INSERT CONTACT?].
+[Frequently Asked Questions](faq.qmd), but please [contact us](contact.qmd) if there is 
+anything else .
