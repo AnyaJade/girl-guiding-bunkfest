@@ -13,6 +13,8 @@ website:
         text: Baking
       - href: faq.qmd
         text: FAQs 
+      - href: contact.qmd
+        text: Contact us
     foreground: "#FFFFFF"
   page-footer:
     background: "#161b4e"
