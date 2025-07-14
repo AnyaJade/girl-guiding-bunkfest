@@ -28,7 +28,7 @@ Times and locations for dropoff:
 [Dry]{.underline}: \
 2 cups (250g) plain flour (spooned & leveled) \
 1 cup (200g) granulated sugar \
-1/2 cup (41g) unsweetened natural cocoa powder \
+1/2 cup (40g) unsweetened natural cocoa powder \
 1 teaspoon bicarbonate of soda \
 1/2 teaspoon salt \
 200g semi-sweet chocolate chips \
@@ -85,7 +85,7 @@ Please attach the empty packet / box to the container of brownies so we know the
 
 #### Method
 
-1. Preheat the oven to 180C/160C Fan/Gas 4. Grease the tin with butter and line the base with baking paper.
+1. Preheat the oven to 180C/160C Fan/Gas 4. Grease a 30x23cm (12x9in) tin with butter and line the base with baking paper.
 
 1. Measure all the ingredients into a large bowl and beat for 2 minutes, or until well blended. Turn the mixture into the prepared tin and level the top.
 
@@ -101,7 +101,7 @@ Adapted from [https://www.bbc.co.uk/food/recipes/lemon_drizzle_traybake_01890](h
 
 ### Vegan flapjack
 
-**Using a vegan butter** for example:
+**To be made using a vegan butter** for example:
 
   - [Vitalite](https://www.tesco.com/groceries/en-GB/products/253250771?_gl=1*1fkixwf*_up*MQ..*_ga*NzQ4MjkyNDA1LjE3NDk4OTMxNjY.*_ga_33B19D36CY*czE3NDk4OTMxNjUkbzEkZzAkdDE3NDk4OTMxNjUkajYwJGwwJGgxNzU1MjYxODk3)
   - [Flora Plant Butter](https://www.tesco.com/groceries/en-GB/products/316641967?_gl=1*1fkixwf*_up*MQ..*_ga*NzQ4MjkyNDA1LjE3NDk4OTMxNjY.*_ga_33B19D36CY*czE3NDk4OTMxNjUkbzEkZzAkdDE3NDk4OTMxNjUkajYwJGwwJGgxNzU1MjYxODk3)
@@ -111,7 +111,7 @@ There is the option to add dried fruit (**no nuts**) or to leave plain.
 
 #### Ingredients
 
-  200g (7oz) vegan butter (see note above) \
+  200g (7oz) **vegan butter** (see note above for suggestions) \
   150g (5oz) demerara sugar \
   4 Tbsp. golden syrup \
   400g (14oz) jumbo oats \

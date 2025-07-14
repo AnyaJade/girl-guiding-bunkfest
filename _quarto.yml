@@ -2,7 +2,7 @@ project:
   type: website
   
 website:
-  title: "Girlguiding Bunkfest Tearoom 2025"
+  title: "Girlguiding Mad Hatter's Tearoom at Bunkfest 2025"
   navbar:
     left:
       - href: index.qmd
