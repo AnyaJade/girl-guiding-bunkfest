@@ -1,6 +1,6 @@
 ## Rota
 
-Each unit has been assigned a two hour slot to run the tearoom. Unit leaders are asked to please update the [staffing sign-up sheet](https://docs.google.com/document/d/1x_cJhxgbXt4jCWR6OjGeRFeREk8HUgJX7Es6h36PofY/) with names of volunteers available for their session.
+Each unit has been assigned a two hour slot to run the tearoom. **Unit leaders** are asked to please update the [staffing sign-up sheet](https://docs.google.com/document/d/1x_cJhxgbXt4jCWR6OjGeRFeREk8HUgJX7Es6h36PofY/) with names of volunteers available for their session. If you are not a leader and are looking to sign up or to check what you've signed up for, please contact your unit leaders or [contact us](contact.qmd).
 
 :::panel-tabset
 
