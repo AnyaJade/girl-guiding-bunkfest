@@ -5,8 +5,6 @@ website:
   title: "Girlguiding Mad Hatter's Tearoom at Bunkfest 2025"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: staffing.qmd
         text: Staffing
       - href: recipes.qmd
