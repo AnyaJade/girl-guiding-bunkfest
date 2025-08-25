@@ -3,7 +3,7 @@ title: "Finding us"
 format: html
 ---
 
-We will be in the Bullcroft during Bunkfest 2025.
+We will be in the Bullcroft during Bunkfest 2025: to the left of the Bullcroft stage, next to the craft tent and Kapow Gaming.
 
 ![](pictures/map.png){fig-align="center" fig-alt="Map of Bullcroft arena with an arrow pointing at Girlguiding Wallingford's Mad Hatters Tea Party tent."}
 
