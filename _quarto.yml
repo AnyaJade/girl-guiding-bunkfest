@@ -13,6 +13,8 @@ website:
         text: Baking
       - href: faq.qmd
         text: FAQs 
+      - href: map.qmd
+        text: Bunkfest map
       - href: contact.qmd
         text: Contact us
     foreground: "#FFFFFF"
