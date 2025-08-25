@@ -1,6 +1,6 @@
 ![](pictures/banner_bunkfest.png){fig-align="center" fig-alt="Girlguiding Wallingford District and Bunkfest 2025 logos"}
 
-We are running a Mad Hatter's tearoom at [Bunkfest 2025](https://bunkfest.co.uk/) on Friday 29th to Sunday 31st August. This site contains
+We are running a Mad Hatter's tearoom at [Bunkfest 2025](https://bunkfest.co.uk/) on Friday 29th to Sunday 31st August in the [Bullcroft](map.qmd). This site contains
 information on ways to support us by [volunteering as staff](staffing.qmd) or by
 [baking cakes](recipes.qmd). There is also a section for 
 [frequently asked questions](faq.qmd), but please [contact us](contact.qmd) if there is 
